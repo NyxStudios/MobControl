@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TShock Boss Commands", "TShock Boss Commands\TShock Boss Commands.csproj", "{88E3AB43-C3FB-46F3-871D-F058D2B286EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88E3AB43-C3FB-46F3-871D-F058D2B286EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88E3AB43-C3FB-46F3-871D-F058D2B286EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E3AB43-C3FB-46F3-871D-F058D2B286EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88E3AB43-C3FB-46F3-871D-F058D2B286EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
