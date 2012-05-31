@@ -17,7 +17,7 @@ namespace TestPlugin
         {
             Commands.ChatCommands.Add(new Command(Permissions.spawnboss, SpawnBoss, "boss", "eater", "king", "eye", "skeletron", "wof", "wallofflesh", "twins",
 		        "destroyer", "prime", "skeletronp", "hardcore"));
-            Commands.ChatCommands.Add(new Command(Permissions.spawnmob, SpawnMob, "spawnmob", "sm");
+            Commands.ChatCommands.Add(new Command(Permissions.spawnmob, SpawnMob, "spawnmob", "sm"));
 
         }
         public override Version Version
